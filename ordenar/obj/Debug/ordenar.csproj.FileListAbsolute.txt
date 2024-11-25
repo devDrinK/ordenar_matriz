@@ -1,0 +1,10 @@
+G:\programacion\practica-curso\tareas\ordenar\ordenar\bin\Debug\ordenar.exe.config
+G:\programacion\practica-curso\tareas\ordenar\ordenar\bin\Debug\ordenar.exe
+G:\programacion\practica-curso\tareas\ordenar\ordenar\bin\Debug\ordenar.pdb
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.csproj.AssemblyReference.cache
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.Form1.resources
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.Properties.Resources.resources
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.csproj.GenerateResource.cache
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.csproj.CoreCompileInputs.cache
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.exe
+G:\programacion\practica-curso\tareas\ordenar\ordenar\obj\Debug\ordenar.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\programacion\\practica-curso\\tareas\\ordenar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{638A095F-5B6F-4538-8A40-8C8BA3955BCD}|ordenar\\ordenar.csproj|G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{638A095F-5B6F-4538-8A40-8C8BA3955BCD}|ordenar\\ordenar.csproj|solutionrelative:ordenar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638A095F-5B6F-4538-8A40-8C8BA3955BCD}|ordenar\\ordenar.csproj|g:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638A095F-5B6F-4538-8A40-8C8BA3955BCD}|ordenar\\ordenar.csproj|solutionrelative:ordenar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{638A095F-5B6F-4538-8A40-8C8BA3955BCD}|ordenar\\ordenar.csproj|G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{638A095F-5B6F-4538-8A40-8C8BA3955BCD}|ordenar\\ordenar.csproj|solutionrelative:ordenar\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "ordenar\\Form1.Designer.cs",
+              "ToolTip": "G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\Form1.Designer.cs",
+              "RelativeToolTip": "ordenar\\Form1.Designer.cs",
+              "ViewState": "AQIAABoAAAAAAACrK8orwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T01:50:42.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\Form1.cs",
+              "RelativeDocumentMoniker": "ordenar\\Form1.cs",
+              "ToolTip": "G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\Form1.cs",
+              "RelativeToolTip": "ordenar\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAYh5wWwBsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:34:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\Form1.cs",
+              "RelativeDocumentMoniker": "ordenar\\Form1.cs",
+              "ToolTip": "G:\\programacion\\practica-curso\\tareas\\ordenar\\ordenar\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ordenar\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T00:30:45.457Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
